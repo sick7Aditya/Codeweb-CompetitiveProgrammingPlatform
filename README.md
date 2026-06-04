@@ -142,37 +142,9 @@ CodeWeb/
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] WebSocket-based live contest scoreboard
-- [ ] Custom test case runner
-- [ ] Editorial/solution section per problem
-- [ ] Discussion threads per problem
-- [ ] Email notifications for contest reminders
-- [ ] Dockerized deployment setup
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
-
----
-
 ## 👤 Author
 
 **Aditya** — [@sick7Aditya](https://github.com/sick7Aditya)
 
-Built as a portfolio project while studying BCA, with a focus on full-stack development and system design.
+Built as a portfolio project while studying BCA, with a focus on backend development.
 
----
-
-## 📜 License
-
-[MIT](LICENSE)
-
----
-
-<div align="center">
-  <sub>Made with ☕ and too many Stack Overflow tabs.</sub>
-</div>
